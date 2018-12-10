@@ -26,10 +26,21 @@ Snippets and experiments about var, string, formatting [without the format()], e
 - **fizzbuzz.py**    
     - a game with two numbers
     - FOR loop
-    -except - modulo - try 
+    - except - modulo - try 
 - **fizzbuss-plus**
     - variant with 3 numbers 
 
 ### 03 Lists
+- **restaurant_menu.py**
+    - use dictionary	
+    - file handeling: read, write, append
+ - **restaurant_menu-datum**
+    - use datetime for filername
+    - file export 
+
+### 04 Funcions
+ 
+ 
+
 
 
