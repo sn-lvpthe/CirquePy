@@ -39,6 +39,46 @@ Snippets and experiments about var, string, formatting [without the format()], e
     - file export 
 
 ### 04 Funcions
+
+``
+Functions
+- Importing external functions
+- Random
+- Testing
+``
+
+- **guess_secret_number.py**
+- **lottery._py**
+
+### 05 OOP
+
+- **contact_book.py**
+	- Object-oriented programming (OOP)
+
+### 06 Datascraping
+**Working with BeautifulSoup and bs4 (latest version 4)
+
+- **marriage_plus.py**
+	- scraping qoutes and authors from a site
+	- creating a file
+	``some errors in combining quotes and auhors``
+- **scraper.py**
+	- scrapping emailadresses
+	- creating a file
+- **scraper_bs4.py**
+	- scrapping name, city, email
+	- creating a file
+	``some errors``
+
+### 07 tkinter
+*Wrapping some previous scripts in a GUI with tkinter.*
+
+- **fizzbuzz_gui.py**
+- **secret_number_gui.py**
+
+
+
+
  
  
 
